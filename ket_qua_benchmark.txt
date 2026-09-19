@@ -1,0 +1,131 @@
+Đã nạp 33 chunks từ 6 files.
+
+--- QUERY 1: Khi ở KTX cần lưu ý điều gì? ---
+Filter: None
+  Top 1: fpt-ocd-portal (Score: 0.8329)
+  Content: ### 1. Khi ở KTX cần lưu ý điều gì?
+- Không được nuôi vật nuôi, thú cưng (chó, mèo,...).
+- Không đượ...
+
+  Top 2: fpt-huong-dan-nhan-phong (Score: 0.8039)
+  Content: ## 2. Lưu ý và kinh nghiệm chuẩn bị nhận phòng
+
+- Tân sinh viên đến trường thực hiện theo hướng dẫn ...
+
+  Top 3: fpt-noi-quy-ktx-hl (Score: 0.7911)
+  Content: ## **Điều 3. Quy định về sinh hoạt:** 
+
+1. Cấm tổ chức, tham gia, che giấu, chứa chấp tội phạm đánh ...
+
+AGENT ANSWER:
+Dựa vào các ngữ cảnh, khi ở KTX bạn cần lưu ý những điều sau:
+
+* **Các quy định chung về sinh hoạt và hành vi:**
+  * Không được nuôi vật nuôi, thú cưng (chó, mèo,...), không được đem vào và nuôi các loại động vật trong KTX [1], [3].
+  * Không được uống rượu, bia, sử dụng các chất kích thích và chất cấm, đồ uống có cồn, thuốc lá, bóng cười, ma túy,... [1], [3].
+  * Không được nấu ăn và không sử dụng các thiết bị điện như nồi cơm điện, bếp từ, bếp gas,... trong ký túc xá để đảm bảo PCCC [1], [2], [3].
+  * Không được đưa người lạ không ở trong ký túc xá vào phòng sau giờ giới nghiêm (Giờ giới nghiêm là sau 10 giờ 30 phút tối / 22:30) [1].
+  * Giữ gìn vệ sinh chung và đổ rác trước 9 giờ sáng [1]. Không tự ý tổ chức vui chơi tập thể tự phát, gây ồn ào, mở âm thanh quá mức sau 22h [3].
+  * Không tự ý buôn bán, giao nhận hàng hóa từ bên ngoài sai quy định [3].
+
+* **Quy định về an toàn điện và phòng cháy chữa cháy (PCCC):**
+  * Không tự ý đấu nối thiết bị điện, không sử dụng thiết bị kém chất lượng [3].
+  * Rút phích điện khi ngừng sử dụng; không sạc thiết bị điện tử, điện thoại qua đêm hoặc khi không có người trông coi; tắt át điện bình nóng lạnh khi không sử dụng [3].
+  * Sử dụng điều hòa giữ nhiệt độ từ 25°C trở lên [3].
+  * Nghiêm cấm mang vào, tàng trữ chất dễ cháy nổ [3].
+  * Nghiêm túc chấp hành các quy định về PCCC, tham gia tập huấn, diễn tập PCCC khi có yêu cầu, và biết cách xử lý khi có sự cố cháy xảy ra [3].
+
+============================================================
+--- QUERY 2: Thời hạn lưu trú và phụ trội điện nước được tính như thế nào? ---
+Filter: None
+  Top 1: fpt-ocd-portal (Score: 0.7849)
+  Content: ### 2. Thời hạn lưu trú và phụ trội điện nước (FPTU HN)
+- **Thời hạn lưu trú các kỳ:**
+  - Kỳ Spring...
+
+  Top 2: fpt-noi-quy-ktx-hl (Score: 0.6687)
+  Content: ## **Điều 2. Quy định đăng ký – gia hạn – trả phòng:** 
+
+1.  Đăng ký chỗ ở: Sinh viên bắt buộc đăng ...
+
+  Top 3: fpt-huong-dan-nhan-phong (Score: 0.6283)
+  Content: ## 1. Thông tin về Ký túc xá
+
+- **Kích thước giường:** 2000 x 900mm (Dom C, D, F, H), 1930 x 900mm (...
+
+AGENT ANSWER:
+Dựa vào các ngữ cảnh cung cấp, thời hạn lưu trú và phụ trội điện nước được quy định như sau:
+
+**1. Thời hạn lưu trú các kỳ:**
+* Kỳ Spring: Tháng 1 – tháng 4 [1]
+* Kỳ Summer: Tháng 5 – tháng 8 [1]
+* Kỳ Fall: Tháng 9 – tháng 12 [1]
+
+**2. Phụ trội Điện nước/kỳ (mỗi phòng):**
+* Định mức miễn phí: 200 số Điện & 12 số Nước [1].
+* Dùng vượt định mức phải nộp phí phụ trội: 2,500đ/số điện, 10,000đ/số nước [1].
+
+============================================================
+--- QUERY 3: Điểm uy tín (CFD score) là gì và dùng để làm gì? ---
+Filter: {'audience': 'student'}
+  Top 1: fpt-ocd-portal (Score: 0.8500)
+  Content: ### 3. Điểm uy tín là gì?
+- **Điểm uy tín (Credibility in FPT Dormitory - CFD score)** là tiêu chí đ...
+
+  Top 2: fpt-ocd-portal (Score: 0.5685)
+  Content: ## CÁC CÂU HỎI THƯỜNG GẶP (FAQ)...
+
+  Top 3: fpt-noi-quy-ktx-hl (Score: 0.5643)
+  Content: ## **PHỤ LỤC**...
+
+AGENT ANSWER:
+Dựa vào ngữ cảnh, điểm uy tín (Credibility in FPT Dormitory - CFD score) là tiêu chí để đánh giá ý thức của sinh viên [1]. Điểm này dùng để tăng hoặc giảm tương ứng theo các quy định đã được đề ra trong nội quy, và là một trong những tiêu chí xét duyệt xem sinh viên có được tiếp tục sử dụng ký túc xá trong kỳ hay không [1].
+
+============================================================
+--- QUERY 4: Làm thế nào để gửi yêu cầu tới Ban Quản lý KTX? ---
+Filter: None
+  Top 1: fpt-ocd-portal (Score: 0.8693)
+  Content: ### 4. Làm thế nào để gửi yêu cầu tới Ban Quản lý KTX?
+- Bước 1: Vào chức năng `My request`.
+- Bước ...
+
+  Top 2: fpt-quy-dinh-bql (Score: 0.7202)
+  Content: # Quy định kiểm tra phòng định kỳ dành cho Ban Quản Lý (BQL) KTX
+
+Để đảm bảo an toàn, an ninh và vệ ...
+
+  Top 3: fpt-ocd-portal (Score: 0.7187)
+  Content: ### 5. Làm thế nào để báo cáo sửa chữa đồ dùng trong phòng?
+- Bước 1: Vào chức năng `My request` -> ...
+
+AGENT ANSWER:
+Để gửi yêu cầu tới Ban Quản lý KTX, bạn thực hiện theo các bước sau:
+- Bước 1: Vào chức năng `My request` [1].
+- Bước 2: Bấm vào nút `Create new request` và chọn loại yêu cầu (`Type request`) [1].
+- Bước 3: Điền nội dung của yêu cầu ở phần `Content` và bấm `Create request` [1].
+
+============================================================
+--- QUERY 5: Làm thế nào để báo cáo sửa chữa đồ dùng trong phòng? ---
+Filter: None
+  Top 1: fpt-ocd-portal (Score: 0.8253)
+  Content: ### 5. Làm thế nào để báo cáo sửa chữa đồ dùng trong phòng?
+- Bước 1: Vào chức năng `My request` -> ...
+
+  Top 2: fpt-ocd-portal (Score: 0.7156)
+  Content: ### 4. Làm thế nào để gửi yêu cầu tới Ban Quản lý KTX?
+- Bước 1: Vào chức năng `My request`.
+- Bước ...
+
+  Top 3: fpt-quy-dinh-bql (Score: 0.6773)
+  Content: # Quy định kiểm tra phòng định kỳ dành cho Ban Quản Lý (BQL) KTX
+
+Để đảm bảo an toàn, an ninh và vệ ...
+
+AGENT ANSWER:
+Để báo cáo sửa chữa đồ dùng trong phòng, bạn thực hiện theo các bước sau:
+
+- **Bước 1:** Vào chức năng `My request` -> Chọn `Create new request` -> Chọn "Báo cáo vấn đề kỹ thuật" [1].
+- **Bước 2:** Hệ thống sẽ dẫn tới trang https://cim.fpt.edu.vn/ [1].
+- **Bước 3:** Điền những thông tin cần thiết và gửi ảnh tình trạng thiết bị lên hệ thống CIM, sau đó bấm `Create` [1].
+
+============================================================
