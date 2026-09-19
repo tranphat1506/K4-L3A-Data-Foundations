@@ -80,8 +80,17 @@ class GeminiEmbedder:
         self.client = genai.Client(api_key=api_key)
 
     def __call__(self, text: str) -> list[float]:
-        response = self.client.models.embed_content(model=self.model_name, contents=text)
-        return [float(value) for value in response.embeddings[0].values]
+        import time
+
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                response = self.client.models.embed_content(model=self.model_name, contents=text)
+                return [float(value) for value in response.embeddings[0].values]
+            except Exception as e:
+                if attempt == max_retries - 1:
+                    raise e
+                time.sleep(2 * (attempt + 1))
 
 
 _mock_embed = MockEmbedder()
